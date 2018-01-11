@@ -1,0 +1,13 @@
+{
+    "env": {
+        "browser": false,
+        "commonjs": true,
+        "es6": true
+    },
+    "extends": "../.eslintrc.json",
+    "globals": {
+        "describe": false,
+        "it": false,
+        "xit": false
+    }
+}
